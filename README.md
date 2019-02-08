@@ -22,4 +22,4 @@ PureCalc - Simple Calculator Application With React.JS
 ## Authors
 
 * **Nguyen Dang Hau** - *ReactJS Code* - [ngdanghau](https://github.com/ngdanghau)
-* **Kalpesh Singh** - *HTML, CSS Code* - [oneMoreArray](dribbble.com/oneMoreArray)
+* **Kalpesh Singh** - *HTML, CSS Code* - [oneMoreArray](https://dribbble.com/oneMoreArray)
