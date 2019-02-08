@@ -1,8 +1,8 @@
 # PureCalc
 PureCalc - Simple Calculator Application With React.JS
 # Get started
-Install Modules: npm install <br/> 
-Start Project: npm start
+Install Modules: <code>npm install</code> <br/> 
+Start Project: <code>npm start</code> 
 
 # Production Build.
-npm run build
+<code>npm run build</code> 
