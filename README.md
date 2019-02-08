@@ -2,6 +2,8 @@
 PureCalc - Simple Calculator Application With React.JS
 
 ## Structure
+<p> - Disc Folder</p>
+<p> - Source Folder</p>
 
 ## Getting Started
 <p>Install Modules</p>
@@ -11,7 +13,7 @@ PureCalc - Simple Calculator Application With React.JS
 <pre><code>npm start</code></pre><br/> 
 
 ## Production Build.
-<code>npm run build</code> 
+<pre><code>npm run build</code></pre> 
 
 ## Built With
 
